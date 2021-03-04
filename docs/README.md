@@ -3,8 +3,8 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-4yp-project-template
-title:
+repository-name: e15-4yp-Optimizing-chloroplast-genome-assembly-and-annotation-with-skim-sequencing-data
+title:Optimizing chloroplast genome assembly and annotation with skim sequencing data
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
@@ -13,14 +13,14 @@ title:
 
 #### Team
 
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
+- E15209, H. Kithma Madhushani, [email](mailto:kithmamadushani1@gmail.com)
+- E15233, Nipuni Muthucumarana, [email](mailto:nipunimuthucumarana@gmail.com)
+- E15325, Chalani Weerarathna, [email](mailto:chalanisweerarathna@gmail.com)
 
 #### Supervisors
 
-- Name, [email](mailto:name@eng.pdn.ac.lk)
-- Name, [email](mailto:name@eng.pdn.ac.lk)
+- Dr. Asitha Bandaranayake, [email](mailto:asithab@eng.pdn.ac.lk)
+- Prof. Pradeepa Bandaranayake, [email](mailto:pcgunathilake@gmail.com)
 
 #### Table of content
 
