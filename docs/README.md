@@ -4,7 +4,7 @@ permalink: index.html
 
 # Please update this with your repository name and title
 repository-name: e15-4yp-Optimizing-chloroplast-genome-assembly-and-annotation-with-skim-sequencing-data
-title:
+title: Optimizing chloroplast genome assembly and annotation with skim sequencing data
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
@@ -13,9 +13,9 @@ title:
 
 #### Team
 
-- E15209, H. Kithma Madhushani, [email](mailto:kithmamadushani1@gmail.com)
-- E15233, Nipuni Muthucumarana, [email](mailto:nipunimuthucumarana@gmail.com)
-- E15325, Chalani Weerarathna, [email](mailto:chalanisweerarathna@gmail.com)
+- E/15/209, H. Kithma Madhushani, [email](mailto:kithmamadushani1@gmail.com)
+- E/15/233, Nipuni Muthucumarana, [email](mailto:nipunimuthucumarana@gmail.com)
+- E/15/325, Chalani Weerarathna, [email](mailto:chalanisweerarathna@gmail.com)
 
 #### Supervisors
 
@@ -30,8 +30,7 @@ title:
 4. [Experiment Setup and Implementation](#experiment-setup-and-implementation)
 5. [Results and Analysis](#results-and-analysis)
 6. [Conclusion](#conclusion)
-7. [Publications](#publications)
-8. [Links](#links)
+7. [Links](#links)
 
 ---
 
@@ -55,13 +54,13 @@ There are several bioinformatic tools available for the De Novo genome assemblyp
 -  NGS QC
 - Trimmomatic
 2. Tools for assembly
-- NOVOPlasty 
+- NOVOPlasty
 - Velvet Optimizer
 - Faster Statics
-- Spades 
+- Spades
 - Soap-denovo
 3. Tools for determining the suitability of a draft set of contigs
-- QUAST 
+- QUAST
 - Manuve assembly metric
 - CLC BioWorkbench
 
@@ -91,13 +90,6 @@ We have attach our results and comparison in the root folder of the repository.
 About nearly half of the analyzed WGS data without available chloroplast genome,complete assemblies can be generated using the assembly tools.There are many tools for genome assembly by the present. GetOrganelle , Fast-Plast , NOVOPlasty , ORG.Asm , IOGA and chloroExtractor are someof them. Scientsts tend to compare overall performance of the different chloroplastassemblers depending on the various assessment criteria.When we compared the general performance of the different chloroplast assemblingtools, we need to consider various criteria. The most straightforward assembler in general,both on recreated and genuine information, was accomplished by GetOrganelle. Fast-Plast performed almost likewise on most information. These two devices supplementeach other, together with the instrument can do successful assemblies of full chloroplastsin situations where the contrary instrument comes up short. GetOrgane is the onlytool that can generate assemblies for 15 different datasets . Fast-Plast can generateassemblies for only 3 datasets that vanquished every single other tool. NOVOPlasty was the sole another device that would produce a get together that wasn’t created withthe other constructing assembly tool. Fast- Plast, NOVOPlasty, and ORG.Asm delivered the most valuable outcomes, and along these lines, rerunning the device after afailed endeavor could be an authentic methodology. ChloroExtractor  has producedvery few chloroplast assemblies, but requires few materials and is straightforward toinstall and use. Both IOGA and Chloroplast protocol protocols had unsatisfactoryperformance and did not return to reliable chloroplast conventions. These tools canreconstruct the chloroplast genome even without available reference genomes.
 
 Therefore, among the above-mentioned tools, GetOrganelle can be used as adefault option for chloroplast assemblies. Fast-Plast is the second option and the thirdoption can be NOVOPlasty.But all tools do not succeed in generating complete chloroplast assemblies andtherefore, we have to determine the strengths and weaknesses of the specific tools.Sometimes it may be necessary to combine different methods or manually explore theparameter space for generating complete chloroplast assemblies. But most of the time,reconstructing thousands of chloroplast genomes is feasible using the currently availabletools.When considering the annotation tools, most of the time, Dogma has been widelyused for gene prediction in chloroplasts. Until recently, it was the only tool specific tochloroplast genomes, that explains its success for the annotation of genomes. Now moreconsistent annotation of genes is produced with GeSeq when compared to the Dogmasuggesting that annotation of most of the previously annotated chloroplast genomesshould now be updated.
-
-## Publications
-1. [Semester 7 report](./)
-2. [Semester 7 slides](./)
-3. [Semester 8 report](./)
-4. [Semester 8 slides](./)
-5. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./).
 
 
 ## Links
